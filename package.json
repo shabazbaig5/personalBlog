@@ -1,0 +1,16 @@
+{
+  "name": "personalblog",
+  "version": "1.0.0",
+  "description": "A site describing what I am",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server"
+  },
+  "author": "Ethan Hunt",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "express": "^4.17.1"
+  }
+}
